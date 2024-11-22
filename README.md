@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working at **eBEYOND Company**
+- 🔭 I’m currently working at **eBEYOND (pvt) LTD**
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
