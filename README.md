@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Bus management App**
+- 🔭 I’m currently working at **eBEYOND Company**
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
